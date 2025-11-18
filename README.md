@@ -1,2 +1,2 @@
 # adolfo-rodrigo-first-cloud-deployment
-DICT Webinar
+DICT Webinar Activity
